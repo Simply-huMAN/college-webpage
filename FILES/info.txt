@@ -1,0 +1,1 @@
+This folder contains all the required files for the index.html page to run.
